@@ -17,3 +17,6 @@ public class KodOkuma01 {
         System.out.println("The name is " + obj.name);
     }
 }
+
+
+// bu not github da eklendi
